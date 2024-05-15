@@ -1,0 +1,71 @@
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\DAL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\A\NewsApp\DAL\obj\Debug\DAL.Migrations.UserAndTokenAdded.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\DAL.dll.config
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\DAL.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\DAL.pdb
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\EntityFramework.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\EntityFramework.xml
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.Migrations.UserAndTokenAdded.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\Sir's Code\Summ23_A\NewsApp\DAL\obj\Debug\DAL.pdb
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\DAL.dll.config
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\DAL.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\DAL.pdb
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\AutoMapper.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\EntityFramework.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\AutoMapper.xml
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\EntityFramework.xml
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.Migrations.UserAndTokenAdded.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.dll
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.pdb
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.Migrations.DemoAir.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.Migrations.updatingController.resources
+D:\American International University Bangladesh\My files Aiub\Codes\AdvancedotNET\airdemo\DAL\obj\Debug\DAL.Migrations.consoleUpdate.resources
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\DAL.dll.config
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\DAL.dll
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\DAL.pdb
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\AutoMapper.dll
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\EntityFramework.dll
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\AutoMapper.xml
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\EntityFramework.xml
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.Migrations.UserAndTokenAdded.resources
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.Migrations.DemoAir.resources
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.Migrations.updatingController.resources
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.Migrations.consoleUpdate.resources
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.dll
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.pdb
+D:\AIUB STUDY\10TH SEMESTER\Advance .Net\Airticket\airdemo\DAL\obj\Debug\DAL.Migrations.UpdatingCodes.resources
